@@ -178,11 +178,5 @@ tensorflow
 ## 🤝 Author
 
 **Vinayak**  
-B.Tech CSE | VIT-AP University | Student ID: 23BCE7768  
-Course: CSE4006 — Deep Learning
+B.Tech CSE | VIT-AP University 
 
----
-
-## 📄 License
-
-This project is for academic and educational purposes.
